@@ -1,4 +1,3 @@
-```md
 ## Amazon Fine Food Reviews Analysis
 
 ### Mô tả
@@ -28,5 +27,4 @@ Tệp notebook `amazon-fine-food-review.ipynb` chứa mã nguồn phân tích t�
 - **WordCloud cho đánh giá tích cực và tiêu cực:**
   - Trong đánh giá **tích cực**, các từ như "amazing", "excellent", "recommend", "perfect" xuất hiện nhiều.
   - Trong đánh giá **tiêu cực**, các từ như "refund", "horrible", "problem", "never" thường xuất hiện, phản ánh các vấn đề mà khách hàng gặp phải.
-```
 
